@@ -1,3 +1,3 @@
 # BitcoinVsAltcoins
 
-this repo is only used for the tracking of the issues of https://bitcoinvsaltcoins.com website.
+This repo is only used for the tracking of issues of the https://bitcoinvsaltcoins.com website.
